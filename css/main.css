@@ -62,11 +62,6 @@ input[type=submit]:hover {
   background-color: #45a049;
 }
 
-.container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-}
 
 h3{
 font-family: 'Josefin Sans', sans-serif;
