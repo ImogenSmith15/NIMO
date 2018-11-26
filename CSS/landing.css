@@ -16,10 +16,10 @@ body{
   background-repeat: no-repeat;
 
   background-image:
-    url("images/Coast.jpg"),
-    url("images/coral reef.jpg"),
-    url("images/the deep.jpg"),
-    url("images/estuary.jpg");
+    url("Images/Coast.jpg"),
+    url("Images/coral reef.jpg"),
+    url("Images/the deep.jpg"),
+    url("Images/estuary.jpg");
 }
 
 div{
