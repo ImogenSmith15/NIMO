@@ -25,6 +25,13 @@
   li a:hover {
       background-color: #111;
   }
+
+  
+  .home-header h1 {
+    color: white;
+    text-align: center;
+
+  }
   /* Style the footer */
 .footer {
     position: fixed;
