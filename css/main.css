@@ -30,9 +30,10 @@
 
   .home-header h1 {
     color: white;
-    text-align: center;
     font-family: 'Josefin Sans', sans-serif;
+    text-align: center;  
   }
+
   /* Style the footer */
 .footer {
     position: fixed;
