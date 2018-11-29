@@ -17,6 +17,7 @@
   li a {
       display: block;
       color: white;
+      font-family: 'Josefin Sans', sans-serif;
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
@@ -26,11 +27,11 @@
       background-color: #111;
   }
 
-  
+
   .home-header h1 {
     color: white;
     text-align: center;
-
+    font-family: 'Josefin Sans', sans-serif;
   }
   /* Style the footer */
 .footer {
@@ -41,3 +42,5 @@
     padding: 10px;
     background-color: #1c355e;
     text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
