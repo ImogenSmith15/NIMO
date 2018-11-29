@@ -31,7 +31,14 @@
   .home-header h1 {
     color: white;
     font-family: 'Josefin Sans', sans-serif;
-    text-align: center;  
+    text-align: center;
+  }
+  
+/*Style the button*/
+  .button {
+    background-color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #1c355e;
   }
 
   /* Style the footer */
