@@ -18,6 +18,7 @@ li a {
     text-decoration: none;
 }
 
+
 li a:hover {
     background-color: #111;
 }
@@ -30,6 +31,7 @@ li a:hover {
   padding: 10px;
   background-color: #1c355e;
   text-align: center;
+  color: white;
 }
 
 body{
