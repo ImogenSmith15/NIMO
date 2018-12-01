@@ -33,10 +33,10 @@ li a:hover {
 }
 
 body{
-  background-color: aqua;
+  background-color: blue;
 }
 
-.equal, .equal > div[class*='col-'] {
+.row equal{
      display: -webkit-box;
      display: -moz-box;
      display: -ms-flexbox;
@@ -56,6 +56,22 @@ div{
   padding-top: 30px;
 }
 
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.center{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-height: auto%;
+}
+
 h1{
 font-family: 'Josefin Sans', sans-serif;
 color: white;
@@ -67,9 +83,6 @@ p{
 font-family: 'Josefin Sans', sans-serif;
 color: white;
 font-size: 14px;}
-
-
-
 
 h2{
 font-family: 'Josefin Sans', sans-serif;
