@@ -28,5 +28,17 @@ input[type=submit]:hover {
 h3{
 font-family: 'Josefin Sans', sans-serif;
 color: white;
-font-size: 16px;
+font-size: 20px;
+text-align: center;
+font-weight: bold;
+}
+
+h4{
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
+  font-size: 16px;
+}
+
+#country{
+  color: gray; 
 }
