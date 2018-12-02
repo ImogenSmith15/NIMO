@@ -18,7 +18,6 @@ li a {
     text-decoration: none;
 }
 
-
 li a:hover {
     background-color: #111;
 }
@@ -35,7 +34,7 @@ li a:hover {
 }
 
 body{
-  background-color: blue;
+  background-color: #1c355e;
 }
 
 .row equal{
@@ -51,9 +50,14 @@ div{
   margin: auto;
 }
 
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
 .headings{
   padding-left: 220px;
-  padding-left: right: 220px
+  padding-right: 220px
   padding-bottom: 30px;
   padding-top: 30px;
 }
@@ -79,6 +83,7 @@ font-family: 'Josefin Sans', sans-serif;
 color: white;
 font-size: 16px;
 border: 3px;
+padding-left: 10px;
 }
 
 p{
@@ -97,8 +102,6 @@ font-family: 'Josefin Sans', sans-serif;
 color: white;
 font-size: 14px;}
 
-
-
 h3{
 font-family: 'Josefin Sans', sans-serif;
 color: white;
@@ -109,8 +112,6 @@ p{
 font-family: 'Josefin Sans', sans-serif;
 color: white;
 font-size: 14px;}
-
-
 
 h4{
 font-family: 'Josefin Sans', sans-serif;
