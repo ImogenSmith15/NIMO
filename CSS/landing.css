@@ -18,6 +18,10 @@ li a {
     text-decoration: none;
 }
 
+.large {
+    font-size: 20px;
+}
+
 li a:hover {
     background-color: #111;
 }
