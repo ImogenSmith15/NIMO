@@ -34,6 +34,12 @@
     text-align: center;
   }
 
+  .home-header p {
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+  }
+
 /*Style the button*/
   .button {
     background-color: white;
