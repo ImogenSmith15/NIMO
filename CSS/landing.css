@@ -37,11 +37,11 @@ li a:hover {
   color: white;
 }
 
-body{
+body {
   background-color: #1c355e;
 }
 
-.row equal{
+.row equal {
      display: -webkit-box;
      display: -moz-box;
      display: -ms-flexbox;
@@ -59,7 +59,7 @@ div{
   zoom: 1.0 ;
 }
 
-.headings{
+.headings {
   padding-left: 220px;
   padding-right: 220px
   padding-bottom: 30px;
@@ -73,7 +73,7 @@ div{
     margin-left: auto;
 }
 
-.center{
+.center {
     text-align: center;
     display: block;
     margin-left: auto;
@@ -82,7 +82,7 @@ div{
     max-height: auto%;
 }
 
-h1{
+h1 {
 font-family: 'Josefin Sans', sans-serif;
 color: white;
 font-size: 16px;
@@ -90,40 +90,41 @@ border: 3px;
 padding-left: 10px;
 }
 
-p{
+p {
 font-family: 'Josefin Sans', sans-serif;
 color: white;
 font-size: 14px;}
 
-h2{
+h2 {
 font-family: 'Josefin Sans', sans-serif;
 color: white;
 font-size: 16px;
 }
 
-p{
+p {
 font-family: 'Josefin Sans', sans-serif;
 color: white;
 font-size: 14px;}
 
-h3{
+h3 {
 font-family: 'Josefin Sans', sans-serif;
 color: white;
 font-size: 16px;
 }
 
-p{
+p {
 font-family: 'Josefin Sans', sans-serif;
 color: white;
 font-size: 14px;}
 
-h4{
+h4 {
 font-family: 'Josefin Sans', sans-serif;
 color: white;
 font-size: 16px;
 }
 
-p{
+p {
 font-family: 'Josefin Sans', sans-serif;
 color: white;
-font-size: 14px;}
+font-size: 14px;
+}
