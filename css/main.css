@@ -1,7 +1,9 @@
   body {
      background-image: url("../images/killerwhale.gif");
      background-size: cover;
+     font-family: 'Josefin Sans', sans-serif;
   }
+  
   ul {
       list-style-type: none;
       margin: 0;
